@@ -67,5 +67,4 @@ Bu kodun çıktısı da şu şekilde olacaktır:
 7
 8
 9
-
 ```
