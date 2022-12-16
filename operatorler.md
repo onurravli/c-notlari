@@ -27,8 +27,8 @@ Değişkenleri öğrendik, sıra değişkenleri manipüle etmeye (değiştirmeye
 
    İki değişkenin birbirine eşit mi, eşit değilse büyük olan hangisi bulmak için kullanılan operatörlerdir.
 
-   1. Eşitlik operatörü: a == b. Eğer a ve b eşitse `true` döndürür.
-   2. Büyüklük operatörü: a>b. Eğer a, b'den büyükse `true` döndürür.
+   1. **Eşitlik operatörü**: a == b. Eğer a ve b eşitse `true` döndürür.
+   2. **Büyüklük operatörü**: a>b. Eğer a, b'den büyükse `true` döndürür.
 
 4. ### Mantıksal Operatörler
    1. **VE (&&)**: İki değişkenin aynı anda doğru olduğu durumda 1, değilse 0 döndürür.
