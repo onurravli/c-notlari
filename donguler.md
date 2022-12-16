@@ -27,4 +27,45 @@ while(i<10) {
 }
 ```
 
-Burada önemli olan nokta, iteratör i'yi döngü içerisinde artırmamız gerektiğidir. Aksi halde i hep 10'dan küçük olacaği için sonsuz bir döngü meydana gelecektir.
+Burada önemli olan nokta, iteratör i'yi döngü içerisinde artırmamız gerektiğidir. Aksi halde i hep 10'dan küçük olacaği için sonsuz bir döngü meydana gelecektir. Bu kodun çıktısı şu şekilde olacaktır:
+
+```
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+```
+
+### 3. Do-While Döngüsü
+
+Temelde while döngüsü ile aynı olan do-while döngüsünün tek farkı, while döngüsünde gerçekleştirilen işlemin **en az 1 kere** yapılmasıdır. Yani döngü şartı doğru olsun olmasın, döngü içerisinde verilen işlem en az 1 kere gerçekleştirilir.
+
+```c
+int i=0;
+do {
+  printf("%d\n", i);
+  i++;
+} while(i < 10);
+```
+
+Bu kodun çıktısı da şu şekilde olacaktır:
+
+```
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+```
