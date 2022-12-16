@@ -14,3 +14,17 @@ for(i = 0; i<100; i++) {
 ```
 
 şeklinde bir tanımlama yapmamız yeterlidir. Bu döngüde iteratör i, 0'dan başlayıp 100'e kadar (**100 hariç!**) artacak ve bu esnada gerekli işlemleri gerçekleştireceğiz.
+
+### 2. While Döngüsü
+
+While döngüsü de, İngilizcesinden anlayabileceğimiz şeklinde, iken manasına gelen bir döngüdür. Belirttiğimiz şart doğru olduğu müddetçe istediğimiz işlemler gerçekleştirilir. Örneğin sayımız 10'dan küçük olduğu müddetçe sayıları ekrana yazan kod, şu şekildedir:
+
+```c
+int i=0;
+while(i<10) {
+  printf("%d\n", i);
+  i++; // UNUTULMAMALI !!
+}
+```
+
+Burada önemli olan nokta, iteratör i'yi döngü içerisinde artırmamız gerektiğidir. Aksi halde i hep 10'dan küçük olacaği için sonsuz bir döngü meydana gelecektir.
