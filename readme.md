@@ -1,6 +1,6 @@
 ## C Notları
 
-Merhaba. Bu repo'da, temel seviyede anlatılmış şekilde, C programlama diline ait notlar bulunmaktadır.
+Bu repo'da, temel seviyede anlatılmış şekilde, C programlama diline ait notlar bulunmaktadır.
 
 <!-- 1. [C dilinin tarihçesi ve genel özellikleri](./c-dilinin-tarihcesi-ve-genel-ozellikleri.md)
 2. [C dilinin yapısı ve sözdizimi](./c-dilinin-yapisi-ve-sozdizimi.md)
