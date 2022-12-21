@@ -15,5 +15,5 @@ Merhaba. Bu repo'da, temel seviyede anlatılmış şekilde, C programlama diline
 
 
 |#|Konu|Link|
-|----------|:-------------:|------:|
+|----------|-------------|------|
 |1|C dilinin tarihçesi ve genel özellikleri|[Link](./c-dilinin-tarihcesi-ve-genel-ozellikleri.md)|
