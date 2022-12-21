@@ -19,3 +19,4 @@ Bu repo'da, temel seviyede anlatılmış şekilde, C programlama diline ait notl
 |1|C dilinin tarihçesi ve genel özellikleri|[Link](./c-dilinin-tarihcesi-ve-genel-ozellikleri.md)|Hazır Değil
 |2|C dilinin yapısı ve sözdizimi|[Link](./c-dilinin-yapisi-ve-sozdizimi.md)|Hazır Değil
 |3|Değişkenler ve veri türleri|[Link](./degiskenler-ve-veri-turleri.md)|Hazır Değil
+|4|Operatörler ve ifadeler|[Link](./operatorler-ve-ifadeler.md)|Hazır Değil
