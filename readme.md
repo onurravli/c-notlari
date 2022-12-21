@@ -2,7 +2,7 @@
 
 Merhaba. Bu repo'da, temel seviyede anlatılmış şekilde, C programlama diline ait notlar bulunmaktadır.
 
-1. C dilinin tarihçesi ve genel özellikleri
+1. [ ] C dilinin tarihçesi ve genel özellikleri
 2. C dilinin yapısı ve sözdizimi
 3. Değişkenler ve veri türleri
 4. Operatörler ve ifadeler
