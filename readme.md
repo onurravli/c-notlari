@@ -12,3 +12,8 @@ Merhaba. Bu repo'da, temel seviyede anlatılmış şekilde, C programlama diline
 8. [İşlevsel programlama kavramları (özyineleme, döngülerden kaçış, girdi/çıktı fonksiyonları vb.)](./islevsel-programlama-kavramlari.md)
 9. [Nesneye yönelik programlama kavramları](./nesneye-yonelik-programlama-kavramlari.md)
 10. [C dilinin kütüphaneleri ve kullanımı](./c-dilinin-kutuphaneleri-ve-kullanimi.md)
+
+
+|#|Konu|Link|
+|----------|:-------------:|------:|
+|1|C dilinin tarihçesi ve genel özellikleri|[Link](./c-dilinin-tarihcesi-ve-genel-ozellikleri.md)|
