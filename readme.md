@@ -14,6 +14,6 @@ Merhaba. Bu repo'da, temel seviyede anlatılmış şekilde, C programlama diline
 10. [C dilinin kütüphaneleri ve kullanımı](./c-dilinin-kutuphaneleri-ve-kullanimi.md)
 
 
-|#|Konu|Link|
-|----------|-------------|------|
+|#|Konu|Link|Durum|
+|-|-|-|-|
 |1|C dilinin tarihçesi ve genel özellikleri|[Link](./c-dilinin-tarihcesi-ve-genel-ozellikleri.md)|
