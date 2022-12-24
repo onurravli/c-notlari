@@ -17,3 +17,12 @@ C'de temel olarak 4 tip veri vardır: integer (tam sayı), float (ondalıklı sa
 ### Sabit (`constant`) Değişkenler
 
 Değerinin ileride değişmeyeceğinden emin olduğumuz değişkenleri oluştururken kullanırız. Örneğin, `const int uzunluk = 20;` ya da `const float carpan = 3.1;` gibi.
+
+### Değişkenler Tablosu
+
+| Degişken Türü | Değişken Boyutu | Format Belirteci |
+| ------------- | --------------- | ---------------- |
+| integer       | 2/4             | `%d`             |
+| float         | 4               | `%f`             |
+| double        | 8               | `%f`             |
+| char          | 1               | `%c`             |
